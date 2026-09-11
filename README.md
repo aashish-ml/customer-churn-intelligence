@@ -70,6 +70,7 @@ The trained model is saved as:
 
 ```text
 models/logistic_regression_churn_model.pkl
+```
 
 ## 📊 Prediction Output
 
@@ -101,6 +102,7 @@ Churn Probability: 38.4%
 Prediction: Customer is unlikely to churn
 
 Risk Level: Moderate Risk
+```
 
 ## 🖥️ Streamlit Dashboard
 
@@ -149,6 +151,7 @@ customer-churn-intelligence/
 ├── .gitignore
 ├── README.md
 └── requirements.txt
+```
 
 ## ⚡ FastAPI
 
@@ -172,7 +175,7 @@ Start the FastAPI server using:
 
 ```bash
 uvicorn api.app:app --reload
-
+```
 ## 🗂️ Project Structure
 
 The project is organized into separate folders for data, machine learning, API, dashboard, and notebooks.
@@ -205,6 +208,7 @@ customer-churn-intelligence/
 ├── .gitignore
 ├── README.md
 └── requirements.txt
+```
 
 ## 🛠️ Technologies Used
 
@@ -255,7 +259,7 @@ Follow these steps to run the project on your local machine.
 
 ```bash
 git clone https://github.com/aashish-ml/customer-churn-intelligence.git
-
+```
 
 ## ▶️ Run the Streamlit Dashboard
 
@@ -267,7 +271,7 @@ For Windows:
 
 ```bash
 .venv\Scripts\activate
-
+```
 
 ## 🚀 Run the FastAPI Server
 
@@ -279,6 +283,7 @@ For Windows:
 
 ```bash
 .venv\Scripts\activate
+```
 
 ## 🔍 Example Prediction
 
@@ -290,7 +295,7 @@ The application takes customer information as input and returns a churn predicti
 Tenure: 12 months
 Monthly Charges: $70.00
 Total Charges: $840.00
-
+```
 
 ## 💡 Business Value
 
