@@ -367,7 +367,7 @@ The ultimate goal is to transform this project into a production-ready Customer 
 
 ## 👨‍💻 Author
 
-# **Aashish**
+ **Aashish**
 
 AI/ML & Data Analytics Enthusiast
 
