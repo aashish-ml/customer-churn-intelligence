@@ -406,6 +406,30 @@ Interested in:
 - 🐙 Version-controlled the project using **Git and GitHub**.
 - 📁 Organized the project using a professional, scalable folder structure.
 
+
+## 📸 Screenshots & Demo
+
+### 🖥️ Streamlit Dashboard
+
+The Streamlit dashboard provides an interactive interface for entering customer information and generating churn predictions.
+
+![Streamlit Dashboard](screenshots/streamlit_dashboard.jpg)
+
+### 🔍 Prediction Result
+
+The application displays the predicted churn status, churn probability, and customer risk level in an easy-to-understand format.
+
+![Prediction Result](screenshots/prediction_result.jpg)
+
+### 🎯 Project Demo
+
+The complete application workflow:
+
+**Customer Input → FastAPI API → Machine Learning Model → Churn Prediction → Risk Level**
+
+This demonstrates an end-to-end Machine Learning application built with Python, FastAPI, and Streamlit.
+
+
 ### 🎯 Key Outcome
 
 This project demonstrates the complete Machine Learning workflow — from **raw customer data to model training, API development, interactive dashboard, and GitHub deployment-ready project structure**.
